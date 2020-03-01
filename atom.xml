@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tony1026.github.io</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2020-03-01T14:38:21.311Z</updated>
+    <updated>2020-03-01T14:54:39.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tony1026.github.io"/>
     <link rel="self" href="https://tony1026.github.io/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://tony1026.github.io/images/avatar.png</logo>
     <icon>https://tony1026.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Tony.Lin 的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一个欢迎帖]]></title>
+        <id>https://tony1026.github.io/post/zhe-shi-yi-ge-huan-ying-tie/</id>
+        <link href="https://tony1026.github.io/post/zhe-shi-yi-ge-huan-ying-tie/">
+        </link>
+        <updated>2020-03-01T14:38:53.000Z</updated>
+        <content type="html"><![CDATA[<p>突然心血来潮就建了这个博客，或许是意识到了空间舆论环境实在不佳，写文环境也不敢恭维，遂自己搭了这个blog。<br>
+blog采用白嫖的Github网址，托管在我的github仓库里，编辑器则采用Gridea，欢迎来star我的项目，也欢迎关注我的github账号。<br>
+若有友链需要，请邮箱/QQ联系，我会尽量回复。</p>
+]]></content>
+    </entry>
 </feed>
