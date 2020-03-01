@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tony1026.github.io</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2020-03-01T15:17:05.310Z</updated>
+    <updated>2020-03-01T17:17:14.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tony1026.github.io"/>
     <link rel="self" href="https://tony1026.github.io/atom.xml"/>
@@ -15,10 +15,20 @@
         <id>https://tony1026.github.io/post/zhe-shi-yi-ge-huan-ying-tie/</id>
         <link href="https://tony1026.github.io/post/zhe-shi-yi-ge-huan-ying-tie/">
         </link>
-        <updated>2020-03-01T14:38:53.000Z</updated>
+        <updated>2090-02-28T17:15:46.000Z</updated>
         <content type="html"><![CDATA[<p>突然心血来潮就建了这个博客，或许是意识到了空间舆论环境实在不佳，写文环境也不敢恭维，遂自己搭了这个blog。<br>
 blog采用白嫖的Github网址，托管在我的github仓库里，编辑器则采用Gridea，欢迎来star我的项目，也欢迎关注我的github账号。<br>
 若有友链需要，请邮箱/QQ联系，我会尽量回复。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>https://tony1026.github.io/post/you-qing-lian-jie/</id>
+        <link href="https://tony1026.github.io/post/you-qing-lian-jie/">
+        </link>
+        <updated>2020-03-01T17:09:55.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.fly3949.com/ 一位特别巨的巨佬</p>
+<p>如需要友链请在评论区留言，注明地址和描述，并先将我加入您的博客的友链中，我会尽快回复</p>
 ]]></content>
     </entry>
 </feed>
