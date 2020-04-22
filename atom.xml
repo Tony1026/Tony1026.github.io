@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tony1026.github.io</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2020-04-22T15:39:51.173Z</updated>
+    <updated>2020-04-22T16:04:23.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tony1026.github.io"/>
     <link rel="self" href="https://tony1026.github.io/atom.xml"/>
-    <subtitle>理性处世，批判待己。</subtitle>
+    <subtitle>&lt;a href=&quot;https://github.com/Tony1026&quot; target=&quot;_blank&quot;&gt;My github page&lt;/a&gt;</subtitle>
     <logo>https://tony1026.github.io/images/avatar.png</logo>
     <icon>https://tony1026.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Tony.Lin 的小屋</rights>
@@ -16,17 +16,6 @@
         <link href="https://tony1026.github.io/post/bo-ke-geng-xin-ri-zhi/">
         </link>
         <updated>2020-04-22T13:43:47.000Z</updated>
-        <content type="html"><![CDATA[<p>2020.4.22</p>
-<ul>
-<li>外观全面改版，采用gridea-theme-inlineamp主题</li>
-<li>添加国内社交帐号分享，暂添加QQ/微信</li>
-<li>由于disqus适配不佳<s>博主太菜</s>，暂时关闭评论区<s>咕咕咕</s></li>
-<li>友链首页显示，即刻膜拜大佬</li>
-<li>修复了部分页面bug</li>
-<li>添加页内搜索（默认Google，没个卵用，改天再改</li>
-<li>添加Google分析+百度统计</li>
-</ul>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[专属于Otaku的狂欢——评《别对映像研出手》]]></title>
@@ -34,36 +23,6 @@
         <link href="https://tony1026.github.io/post/zhuan-shu-yu-otaku-de-kuang-huan-ping-lesslessbie-dui-ying-xiang-yan-chu-shou-greatergreater/">
         </link>
         <updated>2020-04-04T14:09:57.000Z</updated>
-        <content type="html"><![CDATA[<p>2020年一月新番中人气最高的是哪部作品？毫无疑问是《ID:INVADED イド：インヴェイデッド》：它以绝佳的作画和惊心动魄的情节收获了极高的热度。<br>
-然而一月新番中评分最高却是《别对映像研出手》：bangumi 8.3、豆瓣 9.5（截至写搞前），力压当季所有新番。究其原因，除了稳定的质量外，更重要的是这部新番本就不属于大众：</p>
-<p><strong>它是一场专属于Otaku群体的盛宴。</strong></p>
-<p>番剧《别对映像研出手》改编自大童澄瞳创作的同名漫画，由汤浅政明担任监督，Science SARU（科学猴）制作。而单从原作来说，这部番就与当下主流不同。<br>
-大童澄瞳在通信制（函授制）高中就读，自由的上课时间导致他在校时间极少，也没有什么交心的朋友；而没有高考的压力，也使他在高中时期专注于个人兴趣当中：他高中加入电影部学习电影制作。在社团工作中，他不认为自己是作为“关系都还不错，所以就顺带帮个忙”的朋友，而是“为完成一部作品而合作”的“工作伙伴”。这段经历也在作品中体现：当映像研三人被问及是不是“朋友”时，回答却是“partner（伙伴）”；原作中没有出现“青春”之类的字眼。甚至在改编过程中，“当初担当的编辑建议这里的气氛应该更加热血沸腾。但是大童反驳道，</p>
-<p><strong>&quot;我打心底讨厌热血的青春！真正的阿宅有过热血的青春吗？’只有沉浸在自己的世界，才是属于阿宅的青春。&quot;</strong></p>
-<figure data-type="image" tabindex="1"><img src="https://tony1026.github.io/post-images/1586011522398.jpg" alt="" loading="lazy"></figure>
-<p>原作中，作者借映像研的想象展现了”各种各样、缤纷多彩的世界“，浅草等人在想象的世界中肆意挥洒自己的才华。<br>
-而Science SARU和汤浅的作画风格正符合原作的风格：汤浅政明以诡谲奇幻、狂放自如的作画在日本动画界独树一帜。他的笔下画出了《乒乓》、《恶魔人Crybaby》等等充满魔幻现实主义风格的作品，正与原作不谋而合。</p>
-<figure data-type="image" tabindex="2"><img src="https://tony1026.github.io/post-images/1586016157422.jpg" alt="" loading="lazy"></figure>
-<p>而作为耕耘动画超过三十年的老监督，他的作品产出十分稳定。大童就曾在采访中表示：“不论是对ScienceSARU还是对汤浅导演，我都抱有极大的信赖，</p>
-<p><strong>&quot;制作上就任随他们发挥就好。绝对能做出很棒的东西出来的，所以哪怕是无视原作也完全没关系。&quot;</strong></p>
-<p><strong>&quot;只要能看到汤浅导演的新作品就好。就是信赖到这个程度。&quot;</strong></p>
-<p>两者的合作造就的就是一部充满想象力的作品。《映像研》全片采用手绘+Flash作画的方法，保持高质量的同时大大缩短了作画时长，提高了作画灵活性，其造就的是扭曲的线条、丰富的色彩、绝佳的分镜以及敢于舍弃画风的想象力和效果。这与当今日本动画界追求“唯美”、“绚丽”、“真实感”的趋势大相径庭，充满了其独特的魅力。</p>
-<figure data-type="image" tabindex="3"><img src="https://tony1026.github.io/post-images/1586012983245.webp" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://tony1026.github.io/post-images/1586012991530.gif" alt="" loading="lazy"></figure>
-<p>同时本作也充满了各种致敬部分：如第一集致敬了宫崎骏早期作品《未来少年柯南》（跟另一个柯南没有半毛钱关系），“井上老师”、“山平老师”、“矶老师”指三位日本元老级原画师井上俊之、太平晋也和矶光雄；而第十集则直接采用宫崎骏“白胡子+围裙”的经典形象。</p>
-<figure data-type="image" tabindex="5"><img src="https://tony1026.github.io/post-images/1586013744124.jpeg" alt="" loading="lazy"></figure>
-<p>而剧中对动画业内各种术语的运用堪称新版动画教科书、《白箱》的接班人。“演出”、“分镜”层出不穷，电脑作画、手绘过程一应俱全，甚至连业界现状也一并展现出来：“罪孽深重“的“制作委员会”制度，画师熬夜作画的痛苦，另辟蹊径与地方政府合作，以及最为人所知的”万策尽“，这些则与美化动画行业的《白箱》大不相同。</p>
-<p>而这一切，都凝聚在一所高中，一个充满了”彩虹色青春“的地方。<br>
-这部番可能有很多种解读，但在我看来，这部番是对主流思潮以最严厉的抨击。在大童澄瞳眼中，《映像研》是一部浅草对抗学校、对抗社会的故事。芝浜高校表面上充满活力，实际上暗含着迂腐的学生会制度和充满偏见的校方领导。映像研看似是青春活力的写照，却是“工作伙伴”和“自由的斗争”，宛如一幅对抗主流价值观的画卷。<br>
-在当下动画业界衰落，创作热情缺失的今天，这样一部作品，或许能重新唤醒人们对动画本身的热爱。</p>
-<figure data-type="image" tabindex="6"><img src="https://tony1026.github.io/post-images/1586015756472.jpg" alt="" loading="lazy"></figure>
-<p>参考资料</p>
-<ul>
-<li><a href="http://www.anitama.cn/article/cceffebc41579d7d">《别对映像研出手！》的革新——原作大童澄瞳谈《别对映像研出手！》的创作思路</a></li>
-<li><a href="https://mp.weixin.qq.com/s/iOK-B8xZJKPm7plc_TyLeA">能看到汤浅政明版《映像研》我已经很满足了！——大童澄瞳访谈</a></li>
-<li><a href="http://www.acgdoge.net/archives/31593">想要传达「动」画的有趣之处，CG World 专访《别对映像研出手》制作人崔恩映</a></li>
-</ul>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“ᴰᵒ ʸᵒᵘ ᴸⁱᵏᵉ ᴿᵃⁱⁿ” “ᴵ ᴾʳᵉᶠᵉʳ ʸᵒᵘ”]]></title>
@@ -71,17 +30,6 @@
         <link href="https://tony1026.github.io/post/y-n-rr-y/">
         </link>
         <updated>2020-03-15T14:51:02.000Z</updated>
-        <content type="html"><![CDATA[<p>还没开始宅家的时候一直喜欢下雨。</p>
-<p>走在路上，能清晰地触碰到，那种雨天才会有的、清凉的、带着水汽的空气，特别是在泉州这种本就很湿润的城市，城市的一切被冲洗过的那种干净舒服的观感，大概是一座城市最真实的样子。</p>
-<p>如果是雨大点的话，躲在屋内或者车内，观望外面路人行色匆匆、车流滚滚、大雨倾盆，会有一种自然而然的安稳。</p>
-<p>而略微的低气压，产生那身体感知得到的气压差，让人不自主地就安静下来，甚至有些发困。</p>
-<p>不过在家待久了，愈来愈觉得下雨的麻烦：墙壁凝了一层水珠，地板变得湿滑难行，晾完的衣服冒着一股怪异的味道，家里的一切都变成湿漉漉的、甚至有些粘腻的样子。就是每天看着湿度表一点点往上冒，都变成一种折磨。</p>
-<p>果然生活处境不一样，对一个事情的评价也不一样了。</p>
-<p>说到生活处境，我的单身处境还是一样的呢，连prefer的人都没有，现在连like rain都没有了，实在是悲惨呢（泪）</p>
-<p>……</p>
-<p>上了高中就没怎么写散文，最近突然心血来潮想随便糊两笔，写完果然感觉词穷了，好不容易才憋出这么几段，果然是我菜了啊。<br>
-以前写多了还会被人问“你空间那些是摘抄吗”之类的话，虽然应该是阴阳怪气但至少还有些用处。现在写完也比不上各种整活撕逼蹭热度，没什么人看。</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何评价纪录片《电子竞技在中国》？ - Tony.Lin的回答 -]]></title>
@@ -89,17 +37,6 @@
         <link href="https://tony1026.github.io/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/">
         </link>
         <updated>2020-03-15T14:45:17.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/379507705/answer/1079257802">原答案在这👉</a></p>
-<p>很多人觉得第一集一半在尬吹某农药，觉得它配不上“电竞输出”这个形容词。说实话，我也这么觉得——一个大多是国人在玩，设计上“借鉴”其他作品的游戏，说是“输出”实在牵强。</p>
-<p>但我们先解析一下这个名字：“电子竞技”指是电子游戏比赛达到“竞技”层面的体育项目，并且加了“中国”的限制。</p>
-<p>放眼世界，称得上是“电竞”，并且在世界范围内为人所知的，全部都是外国游戏。放在国内，能算得上是“电竞”，并且有些名气的国产游戏，也只有王者荣耀。你说阴阳师它算电竞吗？崩三算电竞吗？它们的电竞比赛甚至很多国人都不知道，甚至CF都是韩国公司开发的。</p>
-<p>你说，在一个由中国的官方电视台出品的，由中国公司合作制作的，讲述中国电竞游戏发展，宣传中国电竞文化的纪录片，清一色的外国游戏、外国制作、外国文化。</p>
-<p>多可悲啊。</p>
-<p>我不觉得央视的审核人员没看过这部纪录片，更不觉得他们会连这种尴尬的情况都没注意到。但是真的没办法，电竞的现状就是这样：游戏制作由外国主导、电竞文化由国外引进、精神内核受外国文化熏陶，只剩下王者荣耀堪堪有自己的一席之地，勉强撑起国产电竞文化输出的一片天。</p>
-<p>诚然，我觉得腾讯确实在片中打软广了：不说收入、受众量这些拿得出手的，花大篇幅吹捧荣耀的世界观和文化底蕴，其他项目一笔带过，吃相属实难看。</p>
-<p>但你说拿一个游戏代表国产电竞，我也只能说王者荣耀，并且依照它的体量，一定会出现在纪录片中，有着重要的作用。</p>
-<p>它是国产电竞游戏的唯一牌面，也映射出国产游戏的悲哀。</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020年一月看番中（后？）期总结]]></title>
@@ -107,59 +44,6 @@
         <link href="https://tony1026.github.io/post/2020-nian-yi-yue-kan-fan-zhong-hou-qi-zong-jie/">
         </link>
         <updated>2020-03-07T05:15:11.000Z</updated>
-        <content type="html"><![CDATA[<p>今年的一月新番质量比去年高不知道哪去，再加上疫情封锁影响，我这个季度看的番剧量大概是这几年最多的。<br>
-介于各番剧形势逐渐明朗，质量基本上不会出现太大的波动，遂作本文，谈谈我这个季度的观影感受，其中包括新番评价和补番推荐。<br>
-但由于我个人喜好和前传经验不足，导致仍有一些制作优良的新番没有体验，若没有出现敬请谅解。</p>
-<h2 id="一-新番评价">一、新番评价</h2>
-<p>按照相对体验评分，分数从高到低分布。</p>
-<h3 id="10分别对映像研出手下称映像研">10分：《别对映像研出手！》（下称“映像研”）</h3>
-<figure data-type="image" tabindex="1"><img src="https://tony1026.github.io/post-images/1583560228733.jpg" alt="" loading="lazy"></figure>
-<p>原作为大童澄瞳的同名漫画，由汤浅政明监督，汤浅有生之年又一部电视动画作品。<br>
-作为作为一部讲述动画制作的番，映像研的作画极尽汤浅政明风格，画风独特诡谲，充满想象力，各种场景描绘极尽汤浅几十年功底，在本季众神云集的情况下独树一帜。剧中充满了汤浅对动画制作的个人理解和对老前辈的致敬，里面的许多老梗也获得一众老ACG爱好者的共鸣。</p>
-<p>bangumi评分8.5,，豆瓣评分9.6，可谓本季新番的顶尖。</p>
-<h3 id="9分异种族风俗娘评鉴指南">9分：《异种族风俗娘评鉴指南》</h3>
-<figure data-type="image" tabindex="2"><img src="https://tony1026.github.io/post-images/1583560279082.jpg" alt="" loading="lazy"></figure>
-<p>本季真正的神番。<br>
-它成功用表番的动画，做到了一般表番都做不到的事情；又用里番的题材，达到了一众里番都做不到的表现效果。各种play从不走样，能够满足一众看客的所有需求，又完美契合角色特点，丝毫不差的作画和配音，给看客由外而内的极致享受。<br>
-bangumi 7.8，豆瓣8.6，动画史上里程碑式作品（确信</p>
-<h3 id="8分恋爱小行星">8分：《恋爱小行星》</h3>
-<figure data-type="image" tabindex="3"><img src="https://tony1026.github.io/post-images/1583560938729.jpg" alt="" loading="lazy"></figure>
-<p>喜闻乐见的芳文社x动画工房组合，轻百合喜剧。<br>
-画风清新、剧情欢快、配音优良，加上猛男必备百合环节，套个天文地理皮的传统套路。输出稳定但也不出众，受众指向性明确。<br>
-bangumi 7.4，豆瓣8.3，总体发挥还算不错。</p>
-<h3 id="75分虚构推理成群结伴西顿学园">7.5分：《虚构推理》《成群结伴！西顿学园》</h3>
-<figure data-type="image" tabindex="4"><img src="https://tony1026.github.io/post-images/1583561606060.jpg" alt="" loading="lazy"></figure>
-<p>《虚构推理》，日式本格推理小说改编。<br>
-推理改编需要面对剧情拖沓，疯狂打嘴炮的问题，本作也不例外。大部分情节都是语言交谈，整体略显无聊，但设定颇有创意，少有的打斗质量不错，人物很好看，穿插的男女主黄腔环节也不失为一大亮点。<br>
-bangumi 7.2，豆瓣 8.2，值得一看。</p>
-<figure data-type="image" tabindex="5"><img src="https://tony1026.github.io/post-images/1583562218975.jpg" alt="" loading="lazy"></figure>
-<p>《成群结伴！西顿学园》，漫改校园喜剧。<br>
-动物设定独特，对动物的科普十分到位，作画尚可，但剧情过于老套，看下来略显无聊。<br>
-bangumi 7.0，豆瓣8.1。</p>
-<h3 id="7分达尔文游戏">7分：《达尔文游戏》</h3>
-<figure data-type="image" tabindex="6"><img src="https://tony1026.github.io/post-images/1583562511986.jpg" alt="" loading="lazy"></figure>
-<p>漫画改编，类似于起点爽文。<br>
-基于大逃杀设定，嘴炮环节过多，剧情有点无聊，少有的打斗作画尚可。<br>
-bangumi 6.2，豆瓣7.3；</p>
-<h3 id="6分理科生坠入情网故尝试证明">6分：《理科生坠入情网，故尝试证明。》</h3>
-<figure data-type="image" tabindex="7"><img src="https://tony1026.github.io/post-images/1583562796104.jpg" alt="" loading="lazy"></figure>
-<p>漫画改编，校园恋爱喜剧。<br>
-我一个理科生看得十分迷惑，剧情老套，角色行为过于中二，甚至还有三观问题，作画一般，OPED倒还不错。<br>
-bangumi 6.9，豆瓣8.0,理科生劝退。</p>
-<h3 id="不及格猫娘乐园">不及格：《猫娘乐园》</h3>
-<figure data-type="image" tabindex="8"><img src="https://tony1026.github.io/post-images/1583563041832.jpg" alt="" loading="lazy"></figure>
-<p>众所周知的某游戏改编。<br>
-粉丝向作品，除了让粉丝一本满足之外一无是处，配音辣鸡、没有剧情，强行卖萌，无聊废萌番。<br>
-bangumi 6.4，豆瓣7.0,不可看作品。</p>
-<h2 id="二-补番推荐">二、补番推荐</h2>
-<h3 id="非洲的动物上班族">《非洲的动物上班族》</h3>
-<figure data-type="image" tabindex="9"><img src="https://tony1026.github.io/post-images/1583563462489.jpg" alt="" loading="lazy"></figure>
-<p>与稀树草原及食物链都毫无关系，生活在日式社会的非洲上班族们充满汗与泪的社畜喜剧。<br>
-使用3D作画，场景极少，经费节省的典范。<br>
-换来的是十分有趣的上班族生活和讨喜的萌系作画，充满令人发笑的玩梗。同时映射社畜现状，更能引起大众共鸣。再加上OPED的高质量，使得本番在销量上高出投入许多。<br>
-bangumi 7.0，豆瓣8.5，独具一格的休闲喜剧。</p>
-<p>本番的ED是整部番的一大亮点。在多灾多难的2020，我们不妨静下来，听听一个社畜的娓娓道来。</p>
-<iframe style="min-width: 500px;min-height: 300px"   src="https://www.acfun.cn/player/ac11568400" id="ACPlayer-re"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何看待肖战粉丝举报 AO3 lofter 等平台？]]></title>
@@ -167,21 +51,6 @@ bangumi 7.0，豆瓣8.5，独具一格的休闲喜剧。</p>
         <link href="https://tony1026.github.io/post/ru-he-kan-dai-xiao-zhan-fen-si-ju-bao-ao3-lofter-deng-ping-tai/">
         </link>
         <updated>2020-03-06T00:06:59.000Z</updated>
-        <content type="html"><![CDATA[<p>说实话，我被这个事件打扰到了。</p>
-<p>一开始，我在空间看到有人在传，只当成饭圈和同人圈自己撕逼而已。我的列表里混同人圈的有些，所以舆论大多是挺同人圈，反xzf。</p>
-<p>我觉得跟我并无什么关系。</p>
-<p>但后来，各种人开始跟着起哄，嚷嚷着xzf要举报各大平台，拉拢了一大堆路人，再后来，怒火烧到正主，甚至烧到代言的品牌，烧到所有人身上。</p>
-<p><strong>同人圈和xzf刀光剑影，所有的自媒体（不止营销号）瓜分着这个大蛋糕，有的品牌火速止损，有的品牌有意无意地趁机营销。</strong></p>
-<p><strong>说难听点，有如一场猴戏。</strong></p>
-<p>但是实际上，这件事件对我的生活是在没有任何影响：我依然刷着B站、上着网课、跟朋友闲聊，steam除了某游戏下架没有多少影响（这游戏跟这个事件也没关系），lof和ao3之外的平台也没什么改变。</p>
-<p><strong>只是，每天都会看到一群局内局外人怒火不消，甚至借着这个事件想要出圈，给别人孜孜不倦地推荐同人文，嚷嚷着“雨果奖”之类的话想博得圈外人的关注。当群里聊到这件事的时候，一群不想掺和的群友只会当成新冠肺炎一般自觉绕过。</strong></p>
-<p><strong>舆论已经变成单方面的自嗨</strong></p>
-<p><strong>肖战一方当然罪大恶极，这个圈子已经是一具死尸了，没什么好说的。</strong></p>
-<p>但是作为一个跟这件事情半毛钱关系都没有的普通人而言，</p>
-<p><strong>你的青春跟我一点关系都没有，你的同人圈跟别的圈子也一点关系没有，你的文章多nb跟我更是毫不相干，你的创作不自由了并不影响我看1984，请不要硬拉别人和别的圈子站队，也不要在反对xzf的时候夹带私货，这样的行为只会让同人圈变成另一个饭圈。</strong></p>
-<p><strong>总之，还是太闲了。</strong></p>
-<p><strong>或者说这几天一堆破事，都是因为太闲了。</strong></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[这是一个欢迎帖]]></title>
@@ -189,10 +58,5 @@ bangumi 7.0，豆瓣8.5，独具一格的休闲喜剧。</p>
         <link href="https://tony1026.github.io/post/zhe-shi-yi-ge-huan-ying-tie/">
         </link>
         <updated>2020-02-29T17:15:46.000Z</updated>
-        <content type="html"><![CDATA[<p>突然心血来潮就建了这个博客，或许是意识到了空间舆论环境实在不佳，写文环境也不敢恭维。</p>
-<p>blog采用白嫖的Github网址，托管在我的github仓库里，编辑器则采用Gridea，欢迎来star我的项目，</p>
-<p>也欢迎关注我的<a href="https://github.com/Tony1026">github</a>账号。</p>
-<p>若有友链需要，请<a href="tony_lin1026@qq.com">邮箱</a>联系，我会尽量回复。</p>
-]]></content>
     </entry>
 </feed>
