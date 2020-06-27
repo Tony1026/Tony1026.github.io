@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+<title>
+    Tony.Lin 的小屋
+</title>
+<!--[if lt IE 9]><script src="//cdn.bootcss.com/html5shiv/r29/html5.js"></script><![endif]-->
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<meta name="author" content="Tony.Lin">
+<meta name="description" content="理性处世，批判待己">
+<meta name="keywords" content="Tony.Lin的小屋">
+<script async src="//instant.page/3.0.0" type="module" defer
+    integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic/assets/media/css/style.min.css" />
+<link rel="stylesheet" href="https://tony1026.github.io/styles/main.css" />
+<link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://apps.bdimg.com/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic/assets/media/script/tocbot.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic/assets/media/script/script.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic/assets/media/script/icon.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ITJoker233/ITJoker233.github.io@1.0.12/CDN/js/Card/prism.min.js"></script>
+<link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/ITJoker233/ITJoker233.github.io@1.0.12/CDN/css/Card/prism.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.js"></script>
+
+<!--点击特效-->
+<script src="https://cdn.jsdelivr.net/gh/ITJoker233/ITJoker233.github.io@latest/CDN/js/love.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic@latest/assets/media/script/APlayer.min.js">
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+
+<!--CDN样式-->
+<script src="https://cdn.jsdelivr.net/gh/ITJoker233/ITJoker233.github.io@latest/CDN/js/hit-kounter-lc-0.3.0.js">
+</script>
+<script src="https://cdn1.lncld.net/static/js/av-min-1.5.0.js"></script>
+
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163970756-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-163970756-1');
+</script>
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+    <nav class="navbar">
+        <div class="container">
+            <div class="navbar-header header-logo">
+                <a href="https://tony1026.github.io">
+                    Tony.Lin 的小屋
+                </a>
+            </div>
+
+            <div class="menu navbar-right">
+                
+                <a class="menu-item" href="/">
+                    首页
+                </a>
+                
+                <a class="menu-item" href="/posts">
+                    文章
+                </a>
+                
+                <a class="menu-item" href="/friends">
+                    朋友们
+                </a>
+                
+                <a class="menu-item" href="/archives">
+                    归档
+                </a>
+                
+                <a class="menu-item" href="/tags">
+                    标签
+                </a>
+                
+                <a class="menu-item" href="/post/about">
+                    About
+                </a>
+                
+                <input id="switch_default" type="checkbox" class="switch_default">
+                <label for="switch_default" class="toggleBtn"></label>
+            </div>
+            <form id="gridea-search-form" data-update="1593267450196" action="/search/index.html">
+                <input class="search-input" autocomplete="off" spellcheck="false" name="q" autofocus="true"
+                    placeholder="Search...">
+            </form>
+        </div>
+    </nav>
+
+    
+    <nav class="navbar-mobile" id="nav-mobile">
+        <div class="container">
+            <div class="navbar-header">
+                <div>
+                    <a href="https://tony1026.github.io">
+                        Tony.Lin 的小屋
+                    </a>
+                    <!--en-->
+                    <a id="mobile-toggle-theme-en" class="a en">&nbsp;Dark</a>
+                    <!--zh-->
+                    <a id="mobile-toggle-theme-zh" class="a zh">&nbsp;&#x6697;&#x9ED1;</a>
+                </div>
+                <form id="gridea-search-form" data-update="1593267450196" action="/search/index.html">
+                    <input class="search-input" autocomplete="off" spellcheck="false" name="q" autofocus="true"
+                        placeholder="Search...">
+                </form>
+                <!--en-->
+                <div class="menu-toggle" id="menu-toggle-en" onclick="mobileBtn()">&#9776; Menu</div>
+                <!--zh-->
+                <div class="menu-toggle" id="menu-toggle-zh" onclick="mobileBtn()">&#9776; &#x83DC;&#x5355;</div>
+
+            </div>
+            <div class="menu" id="mobile-menu">
+                
+                <a class="menu-item" href="/">
+                    首页
+                </a>
+                
+                <a class="menu-item" href="/posts">
+                    文章
+                </a>
+                
+                <a class="menu-item" href="/friends">
+                    朋友们
+                </a>
+                
+                <a class="menu-item" href="/archives">
+                    归档
+                </a>
+                
+                <a class="menu-item" href="/tags">
+                    标签
+                </a>
+                
+                <a class="menu-item" href="/post/about">
+                    About
+                </a>
+                
+            </div>
+        </div>
+    </nav>
+</header>
+<script>
+    var mobileBtn = function f() {
+        var toggleMenu = document.getElementById("menu-toggle-en");
+        var toggleMenu_zh = document.getElementById("menu-toggle-zh");
+
+        var mobileMenu = document.getElementById("mobile-menu");
+        if (toggleMenu.display != "none") {
+            if (toggleMenu.classList.contains("active")) {
+                toggleMenu.classList.remove("active")
+                mobileMenu.classList.remove("active")
+            } else {
+                toggleMenu.classList.add("active")
+                mobileMenu.classList.add("active")
+            }
+        } else if (toggleMenu_zh.display != "none") {
+            if (toggleMenu_zh.classList.contains("active")) {
+                toggleMenu_zh.classList.remove("active")
+                mobileMenu.classList.remove("active")
+            } else {
+                toggleMenu_zh.classList.add("active")
+                mobileMenu.classList.add("active")
+            }
+        }
+
+    }
+</script>
+            <div class="main">
+                <div class="container">
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title">
+                                生活化人设——《昨日之歌》人物浅析
+                            </h1>
+                            
+                                    <!--zh-->
+                                    <div class="post-meta zh">
+                                        &#x4F5C;&#x8005;:
+                                        <a itemprop="author" rel="author" href="/">
+                                            Tony.Lin 的小屋
+                                        </a>
+                                        <span class="post-time">&#x65E5;&#x671F;: <a href="#">2020-06-25</a></span>
+                                        <span class="post-readtime">&#x9605;&#x8BFB;&#x65F6;&#x95F4;:<a
+                                    href="#">3.2
+                                    &#x5206;&#x949F;</a></span>
+                                        <span class="post-words">&#x5B57;&#x6570;:<a href="#">963</a></span>
+                                        
+                                            <span class="post-category">&#x5206;&#x7C7B;:
+                                
+                                <a href="https://tony1026.github.io/tag/inU11-7BQ/">观影</a>
+                                
+                            </span>
+                                            
+                                                阅读量:
+                                                <span data-hk-page="current"> - </span>
+                                                
+                                    </div>
+                                    
+                        </header>
+                        
+                            <img class="post-feature-image" src="https://tony1026.github.io/post-images/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi.png" alt="">
+                          
+                        <div class="post-content">
+                            <p>1998年，日本仍处在房地产泡沫破裂的冲击中。面对失业等一系列挑战，那个年代的日本年轻人处于时代的漩涡中，茫然失措，更多的人则沉溺于往日五光十色、欣欣向荣的社会氛围中。而立足于那个时代的漫画《昨日之歌》，正以小城市中的各色人物，来代表那个时代的典型。</p>
+<h2 id="魚住うおずみ-陸生りくお">魚住（うおずみ） 陸生（りくお）</h2>
+<figure data-type="image" tabindex="1"><img src="https://img.moegirl.org/common/thumb/2/22/Uozumi_Rikuo.jpg/800px-Uozumi_Rikuo.jpg" alt="" loading="lazy"></figure>
+<h3 id="陆生是本番中人设最成功的角色">陆生是本番中人设最成功的角色</h3>
+<p>作为一个典型的油腻男主，他蜗居在逼仄的社畜出租屋，日常饮食是泡面+啤酒，娱乐是老式红白机，朋友圈小，只能当便利店临时工度日，“理想”之类的词基本上已经从生活中消失，对未来生活感到忧虑却无能为力（虽然长得还不错（不然也不会有党争了hhhhh<br>
+这种形象正反映了90年代的日本的状况。下岗风潮和经济萧条冲击着所有人的生活，于是出现了一大批以钟点工为生的群体，并逐渐成为劳工市场中的重要群体，他们大部分与陆生有着相同的处境：低于常人的收入、较差的生活环境和较低的社会地位，甚至日本官方要专门出台较详尽的法规来维护临时工权利。</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/06/25/ytkIdZWJo3lNPpu.png" alt="" loading="lazy"></figure>
+<p>但陆生年轻时期也曾有过理想，为了一个镜头也曾狠心靠银杏充饥（不过作品都是人像，看起来跟打卡照也差不多，感觉我上我也行），虽然走入社会后，经历了社会的毒打而放下了理想，但到剧情后期也重拾这门手艺（消歧义），能够为了理想而改变自我，最终获得稳定的工作和收入，摆脱了废宅的形象。可见陆生并不属于一些番剧（比如某些后宫番）中的废柴（是吾辈之楷模）。</p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2020/06/25/UNf8KBor6JMR1Cc.png" alt="" loading="lazy"></figure>
+<p>而在感情方面，陆生面对异性十分内敛，面对感情问题不知所措，处理暧昧的异性关系时笨拙得令人着急，同时又有着典型的、由内而外的“亚撒西（温柔）”特征：对于各种关系之间的矛盾，想要对所有人都善良，而对所有异性都维持着若即若离的关系，当然结果经常是矛盾达到顶峰并以冲突结束。诚然，这种优柔寡断的人物性格会招来一些人的批评，但陆生善良、老实甚至有点憨厚的性格正是他的人格魅力所在。<br>
+不过这种性格（或者说经验缺失），也使他在感情抉择上产生偏差。在剧情中后期，陆生完成了事业上的转变后开始思考人生，错误地判断了自己与榀子的关系而选择追求榀子，并且跟小晴维持脆弱的联系，最后使得关系更加尴尬，如果没有最后一集的迅速刹车，很有可能两边不讨好。</p>
+<p>但这也是陆生人设的一部分：为人老实，被社会磨平棱角但仍然会为未来而思考，认清了方向就狠下心来勤恳奋斗，对感情有些迟钝但保持善良。各个方面的描写，最终使得陆生成为一个拥有多样性格，同时与时代特征完美符合的男主，这个部分的人设是极为成功的。</p>
+<h2 id="森ノ目もりのめ-榀子しなこ">森ノ目（もりのめ） 榀子（しなこ）</h2>
+<figure data-type="image" tabindex="4"><img src="https://img.moegirl.org/common/9/9e/Morinome_Shinako.jpg" alt="" loading="lazy"></figure>
+<h3 id="榀子是一个十分普通而传统的内敛女性">榀子是一个十分普通而传统的内敛女性</h3>
+<p>毕业以后以稳定的教师为生，朋友圈仅限于校园和家庭，日常生活安稳得甚至有些无趣</p>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2020/06/26/VzNWevLROHrMc5y.png" alt="" loading="lazy"></figure>
+
+                        </div>
+                        
+                            <div class="post-toc">
+                                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E9%AD%9A%E4%BD%8F%E3%81%86%E3%81%8A%E3%81%9A%E3%81%BF-%E9%99%B8%E7%94%9F%E3%82%8A%E3%81%8F%E3%81%8A">魚住（うおずみ） 陸生（りくお）</a>
+<ul>
+<li><a href="#%E9%99%86%E7%94%9F%E6%98%AF%E6%9C%AC%E7%95%AA%E4%B8%AD%E4%BA%BA%E8%AE%BE%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E8%A7%92%E8%89%B2">陆生是本番中人设最成功的角色</a></li>
+</ul>
+</li>
+<li><a href="#%E6%A3%AE%E3%83%8E%E7%9B%AE%E3%82%82%E3%82%8A%E3%81%AE%E3%82%81-%E6%A6%80%E5%AD%90%E3%81%97%E3%81%AA%E3%81%93">森ノ目（もりのめ） 榀子（しなこ）</a>
+<ul>
+<li><a href="#%E6%A6%80%E5%AD%90%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%81%E5%88%86%E6%99%AE%E9%80%9A%E8%80%8C%E4%BC%A0%E7%BB%9F%E7%9A%84%E5%86%85%E6%95%9B%E5%A5%B3%E6%80%A7">榀子是一个十分普通而传统的内敛女性</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+                            </div>
+                            
+                                
+                                    
+                                            <!--zh-->
+                                            <section class="post-copyright zh">
+                                                <p class="copyright-item ">
+                                                    <span>&#x4F5C;&#x8005;:</span>
+                                                    <span>Tony.Lin 的小屋</span>
+                                                </p>
+
+                                                <p class="copyright-item">
+                                                    <span>&#x6C38;&#x4E45;&#x94FE;&#x63A5;:</span>
+                                                    <span><a href="https://tony1026.github.io/post/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi/">https://tony1026.github.io/post/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi/</a></span>
+                                                </p>
+
+                                                <p class="copyright-item">
+                                                    <span>&#x534F;&#x8BAE;:</span>
+                                                    <span>MIT License</span>
+                                                </p>
+                                            </section>
+                                            
+                                                
+                                                    
+                                                                    <!--Share-->
+                                                                    <span style="margin-right:15px">
+                        <i class="post-share"></i>
+                        <span>&#x5206;&#x4EAB;:</span>
+                                                                    <a title="QR 码" target="_blank" href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://tony1026.github.io/post/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi/"><i class="fa fa-qrcode"></i></a>
+                                                                    <a title="QQ" target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://tony1026.github.io/post/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi/&sharesource=qzone&title=生活化人设——《昨日之歌》人物浅析&pics=https://tony1026.github.io/images/avatar.png?v=1593267450196&summary="><i class="fa fa-qq"></i></a>
+                                                                    <a title="新浪微博" target="_blank" href="https://service.weibo.com/share/share.php?url=https://tony1026.github.io/post/lesslesszuo-ri-zhi-ge-greatergreater-ren-wu-qian-xi/&sharesource=weibo&title=生活化人设——《昨日之歌》人物浅析 + " - " + &pic="https://tony1026.github.io/images/avatar.png?v=1593267450196 "><i class="fa fa-weibo "></i></a>
+
+                                                                    </span>
+                                                                    
+                                                                        <div class="reward ">
+                                                                            <div class="reward-button ">&yen;
+                                                                                <span class="reward-code "> 
+                        <span class="alipay-code "> <img class="alipay-img " alt = "support " src="http://bbsimg6.cnmo-img.com.cn/thumb/11_700x0/10443/10442696_201612_06_154845vtmmhvlhgf7l871i.png"><b>支付宝</b> </span>
+                                                                                <span class="wechat-code "> <img alt ="support " class="wechat-img " src="https://tony1026.github.io/Wechat.jpg"><b>微信</b> </span> </span>
+                                                                            </div>
+                                                                        </div>
+                                                                        
+                                                                            <!--zh-->
+                                                                            <section class="post-tags zh ">
+                                                                                <div>
+                                                                                    <span>&#x6807;&#x7B7E;:</span>
+                                                                                    <span class="tag ">
+                        
+                        
+                        <a href="https://tony1026.github.io/tag/inU11-7BQ/">#
+                    观影
+                        </a>
+                        
+                            
+                                </span>
+                                                                                </div>
+                                                                                <div>
+                                                                                    <a href="javascript:window.history.back();">
+                        &#x8FD4;&#x56DE;</a>
+                                                                                    <span>&dot;</span>
+                                                                                    <a href="#">&#x4E3B;&#x9875;</a>
+                                                                                </div>
+                                                                            </section>
+
+                                                                            
+                                                                                <!---->
+                                                                                <section class="post-nav">
+                                                                                    
+                                                                                            
+                                                                                </section>
+                    </article>
+                </div>
+                
+                                            
+                                                <script type="application/javascript" src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+<div id="vlaine-comment"></div>
+<script type="application/javascript">
+    new Valine({
+        el: '#vlaine-comment',
+        appId: 'AmSGPwIiFvCAefe17bQ8Kkds-gzGzoHsz',
+        appKey: '5014jRYO1VhDvOzssob3aipB',
+        pageSize: 10,
+        avatar: 'retro',
+        placeholder: '听君一席话，胜读十年书',
+        visitor: true,
+        highlight: true,
+        recordIP: true,
+    })
+</script>
+                                                    
+            </div>
+    </div>
+    </div>
+    </div>
+    
+    <div id="player"></div>
+    
+        <footer id="footer" class="footer">
+            <div class="copyright">
+                
+                        
+                            
+                                <b id="hitokoto"></b><br>
+                                
+                                        <svg viewBox="0 0 1024 1024" style="margin-left: 5px;margin-right: 5px;" version="1.0" width="8" height="8" class="my-face">
+            <path
+                d="M863.597631 513.574282l-271.33965-140.213484L729.783667 81.926656c3.583731-7.87141 7.167462-15.742819 7.167462-25.214109C736.887134 25.226908 708.345275 0.012799 672.635953 0.012799a63.611229 63.611229 0 0 0-39.293053 12.607055c-1.791866 1.59988-3.519736 3.19976-5.311602 3.19976L147.87531 418.925381a55.547834 55.547834 0 0 0-19.646527 47.356448c1.791866 17.278704 14.27093 33.021523 32.125591 42.492813l271.33965 141.749369L292.504463 945.221908c-12.479064 25.214109-1.791866 53.563983 23.166262 69.306802 10.751194 6.335525 23.230258 9.47129 35.709322 9.47129 16.062795 0 32.125591-4.735645 44.604655-15.742819l480.091993-403.297753a55.547834 55.547834 0 0 0 19.646526-47.228458 61.243407 61.243407 0 0 0-32.12559-44.156688z"
+                fill="#93b5cf"></path>
+        </svg>
+                                        Tony.Lin 的小屋 &copy;Copyright
+                                            <script>
+                                                var date = new Date();
+                                                document.write("" + date.getFullYear());
+                                            </script>
+                                            | Powered by
+                                            <a href="https://github.com/Tony1026" target="_blank">
+                                                Github
+                                            </a>
+            </div>
+            <div id="update" style="display:none;">
+                on
+            </div>
+            
+                <div id="version" style="display:none;">
+                    1.7.4
+                </div>
+                
+                    <script>
+                        var pat = '';
+                        
+                        document.write('<div id="home_path" style="display:none;">' + document.location.protocol + '//' + window.document.location.hostname + pat + '</div>')
+                    </script>
+        </footer>
+        
+            <script src='https://cdn.jsdelivr.net/npm/live2d-widget@3.x/lib/L2Dwidget.min.js'></script>
+            
+                <script>
+                    
+
+                    function LoadPlayer() {
+                        var music_array = [];
+                        
+                        music_array.push({
+                            name: 'ライトニングのテーマ−闪光',
+                            url: 'http://music.163.com/song/media/outer/url?id=22754096.mp3',
+                            artist: '浜渦正志',
+                            cover: 'http://p2.music.126.net/yx9LrvkSaT9UiPqqasBrlQ==/558551906931891.jpg',
+                        });
+                        
+                        music_array.push({
+                            name: 'Bella (for Bette)',
+                            url: 'http://music.163.com/song/media/outer/url?id=1716468',
+                            artist: 'Michael Hoppé',
+                            cover: 'http://p2.music.126.net/52JCF7cgDvkufe15Oij0tw==/109951163386613815.jpg',
+                        });
+                        
+                        music_array.push({
+                            name: 'you',
+                            url: 'http://music.163.com/song/media/outer/url?id=786262.mp3',
+                            artist: 'M.Graveyard',
+                            cover: 'http://p2.music.126.net/v22kNtMro7CvzoiCYJ4zjQ==/3315027558990599.jpg',
+                        });
+                        
+                        console.log(" MusicList: " + music_array);
+                        
+                        const ap = new APlayer({
+                            container: document.getElementById('player'),
+                            fixed: true,
+                            audio: music_array
+                        });
+                        
+                    }
+                    LoadPlayer();
+                    
+                    
+                    loadlive2d();
+                    
+                    
+                    hitokoto();
+                    
+                    getStar();
+                    hljs.initHighlighting();
+                    console.clear();
+                    
+                    CheckVersion();
+                    
+                    var newDate = new Date();
+                    newDate.setTime(1593267450196);
+                    console.log(" Blog Update Time: " + newDate.toLocaleDateString());
+                    console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
+                </script>
+                
+                    <div id="tp-weather-widget" style="background: #666;display: flex;"></div>
+                    <script>
+                        (function(T, h, i, n, k, P, a, g, e) {
+                            g = function() {
+                                P = h.createElement(i);
+                                a = h.getElementsByTagName(i)[0];
+                                P.src = k;
+                                P.charset = "utf-8";
+                                P.async = 1;
+                                a.parentNode.insertBefore(P, a)
+                            };
+                            T["ThinkPageWeatherWidgetObject"] = n;
+                            T[n] || (T[n] = function() {
+                                (T[n].q = T[n].q || []).push(arguments)
+                            });
+                            T[n].l = +new Date();
+                            if (T.attachEvent) {
+                                T.attachEvent("onload", g)
+                            } else {
+                                T.addEventListener("load", g, false)
+                            }
+                        }(window, document, "script", "tpwidget", "//widget.seniverse.com/widget/chameleon.js"))
+                    </script>
+                    <script>
+                        var wearther_margin = "10px 10px";
+                        
+                        wearther_margin = "70px 5px";
+                        
+                        tpwidget("init", {
+                            "flavor": "bubble",
+                            "location": "WX4FBXXFKE4F",
+                            "geolocation": "enabled",
+                            "position": "bottom-left",
+                            "margin": wearther_margin,
+                            "language": "zh-chs",
+                            "unit": "c",
+                            "theme": "chameleon",
+                            "uid": "UFC977E1C7",
+                            "hash": "213ad798bc472dc365da3a9d4a9ff115"
+                        });
+                        tpwidget("show");
+                    </script>
+                    
+        </div>
+</body>
+<script>
+    scroll();
+</script>
+
+</html>
