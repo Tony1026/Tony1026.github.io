@@ -336,9 +336,10 @@
   color: #424242;
   border-bottom: 1px solid #beb1b1;
   transition: border-color 0.2s;
-}
-.search-input:hover {
-  width: 180px;
+  /*
+  &:hover {
+    width: 180px;
+  }*/
 }
 .search-input .dark-theme {
   color: #fafafa;
