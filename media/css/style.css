@@ -3,7 +3,7 @@
     font-family: 'Fira Code Medium';
     src: url('https://static.meowv.com/fonts/FiraCode-Medium.woff2') format('woff2'), url("https://static.meowv.com/fonts/FiraCode-Medium.woff") format("woff"), url('../fonts/FiraCode-Medium.woff') format('woff'), url('../fonts/FiraCode-Medium.woff2') format('woff2');
     font-weight: 500;
-    font-style: normal
+    font-style: normal;
 }
 
 .message {
