@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tony1026.github.io</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2020-10-04T06:34:27.972Z</updated>
+    <updated>2020-10-24T13:39:08.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tony1026.github.io"/>
     <link rel="self" href="https://tony1026.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://tony1026.github.io/images/avatar.png</logo>
     <icon>https://tony1026.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Tony.Lin 的小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[十八未成]]></title>
+        <id>https://tony1026.github.io/post/18th_year_old_still_young/</id>
+        <link href="https://tony1026.github.io/post/18th_year_old_still_young/">
+        </link>
+        <updated>2020-10-25T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于微信群家长发言的一些随想]]></title>
         <id>https://tony1026.github.io/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/</id>
@@ -72,12 +79,5 @@
         <link href="https://tony1026.github.io/post/2020-nian-yi-yue-kan-fan-zhong-hou-qi-zong-jie/">
         </link>
         <updated>2020-03-07T05:15:11.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何看待肖战粉丝举报 AO3 lofter 等平台？]]></title>
-        <id>https://tony1026.github.io/post/ru-he-kan-dai-xiao-zhan-fen-si-ju-bao-ao3-lofter-deng-ping-tai/</id>
-        <link href="https://tony1026.github.io/post/ru-he-kan-dai-xiao-zhan-fen-si-ju-bao-ao3-lofter-deng-ping-tai/">
-        </link>
-        <updated>2020-03-06T00:06:59.000Z</updated>
     </entry>
 </feed>
