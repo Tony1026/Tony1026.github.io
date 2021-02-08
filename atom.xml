@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tony1026.github.io</id>
+    <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2021-01-31T02:38:59.966Z</updated>
+    <updated>2021-02-08T09:20:49.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tony1026.github.io"/>
-    <link rel="self" href="https://tony1026.github.io/atom.xml"/>
+    <link rel="alternate" href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/"/>
+    <link rel="self" href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
     <subtitle>Tony.Lin&apos;s Blog</subtitle>
-    <logo>https://tony1026.github.io/images/avatar.png</logo>
-    <icon>https://tony1026.github.io/favicon.ico</icon>
+    <logo>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
+    <icon>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Tony.Lin 的小屋</rights>
     <entry>
         <title type="html"><![CDATA[记八省联考]]></title>
-        <id>https://tony1026.github.io/post/ji-ba-sheng-lian-kao/</id>
-        <link href="https://tony1026.github.io/post/ji-ba-sheng-lian-kao/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/ji-ba-sheng-lian-kao/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/ji-ba-sheng-lian-kao/">
         </link>
         <updated>2021-01-25T12:08:11.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[十八未成]]></title>
-        <id>https://tony1026.github.io/post/18th_year_old_still_young/</id>
-        <link href="https://tony1026.github.io/post/18th_year_old_still_young/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/18th_year_old_still_young/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/18th_year_old_still_young/">
         </link>
         <updated>2020-10-25T16:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于微信群家长发言的一些随想]]></title>
-        <id>https://tony1026.github.io/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/</id>
-        <link href="https://tony1026.github.io/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/">
         </link>
         <updated>2020-07-24T14:22:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[被层层包裹住的自我]]></title>
-        <id>https://tony1026.github.io/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/</id>
-        <link href="https://tony1026.github.io/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/">
         </link>
         <updated>2020-06-20T17:12:28.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[一超多强？——2020年四月新番后期总结]]></title>
-        <id>https://tony1026.github.io/post/yi-chao-duo-qiang-/</id>
-        <link href="https://tony1026.github.io/post/yi-chao-duo-qiang-/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/yi-chao-duo-qiang-/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/yi-chao-duo-qiang-/">
         </link>
         <updated>2020-06-06T05:34:11.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[真正可玩的功能机——Nokia 8110 4G+KaiOS使用有感]]></title>
-        <id>https://tony1026.github.io/post/zhen-zheng-ke-wan-de-gong-neng-ji-nokia-8810-4gkaios-shi-yong-you-gan/</id>
-        <link href="https://tony1026.github.io/post/zhen-zheng-ke-wan-de-gong-neng-ji-nokia-8810-4gkaios-shi-yong-you-gan/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/zhen-zheng-ke-wan-de-gong-neng-ji-nokia-8810-4gkaios-shi-yong-you-gan/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/zhen-zheng-ke-wan-de-gong-neng-ji-nokia-8810-4gkaios-shi-yong-you-gan/">
         </link>
         <updated>2020-05-17T05:17:43.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[博客更新日志]]></title>
-        <id>https://tony1026.github.io/post/bo-ke-geng-xin-ri-zhi/</id>
-        <link href="https://tony1026.github.io/post/bo-ke-geng-xin-ri-zhi/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/bo-ke-geng-xin-ri-zhi/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/bo-ke-geng-xin-ri-zhi/">
         </link>
         <updated>2020-04-22T13:43:47.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[专属于Otaku的狂欢——评《别对映像研出手》]]></title>
-        <id>https://tony1026.github.io/post/zhuan-shu-yu-otaku-de-kuang-huan-ping-lesslessbie-dui-ying-xiang-yan-chu-shou-greatergreater/</id>
-        <link href="https://tony1026.github.io/post/zhuan-shu-yu-otaku-de-kuang-huan-ping-lesslessbie-dui-ying-xiang-yan-chu-shou-greatergreater/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/zhuan-shu-yu-otaku-de-kuang-huan-ping-lesslessbie-dui-ying-xiang-yan-chu-shou-greatergreater/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/zhuan-shu-yu-otaku-de-kuang-huan-ping-lesslessbie-dui-ying-xiang-yan-chu-shou-greatergreater/">
         </link>
         <updated>2020-04-04T14:09:57.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[“ᴰᵒ ʸᵒᵘ ᴸⁱᵏᵉ ᴿᵃⁱⁿ” “ᴵ ᴾʳᵉᶠᵉʳ ʸᵒᵘ”]]></title>
-        <id>https://tony1026.github.io/post/y-n-rr-y/</id>
-        <link href="https://tony1026.github.io/post/y-n-rr-y/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/y-n-rr-y/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/y-n-rr-y/">
         </link>
         <updated>2020-03-15T14:51:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何评价纪录片《电子竞技在中国》？ - Tony.Lin的回答 -]]></title>
-        <id>https://tony1026.github.io/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/</id>
-        <link href="https://tony1026.github.io/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/">
+        <id>https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/</id>
+        <link href="https://coding-pages-bucket-3478654-7964816-1806-334104-1303840804.cos-website.ap-hongkong.myqcloud.com/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/">
         </link>
         <updated>2020-03-15T14:45:17.000Z</updated>
     </entry>
