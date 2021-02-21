@@ -70,7 +70,6 @@ function scroll() {
         });
     });
 }
-
 function loadlive2d() {
     //const homePath = document.getElementById('homePath').innerHTML + '/media/live2d/tororo/assets/tororo.model_';
     const homePath = 'https://cdn.jsdelivr.net/gh/itjoker233/Gridea-theme-Chic@1.5.4/assets/media/live2d/tororo/assets/tororo.model_';
