@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tonylin1026.tk</id>
     <title>Tony.Lin 的小屋</title>
-    <updated>2021-02-21T15:20:04.448Z</updated>
+    <updated>2021-04-04T07:27:39.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tonylin1026.tk"/>
     <link rel="self" href="https://tonylin1026.tk/atom.xml"/>
@@ -30,20 +30,6 @@
         <link href="https://tonylin1026.tk/post/18th_year_old_still_young/">
         </link>
         <updated>2020-10-25T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于微信群家长发言的一些随想]]></title>
-        <id>https://tonylin1026.tk/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/</id>
-        <link href="https://tonylin1026.tk/post/guan-yu-wei-xin-qun-jia-chang-fa-yan-de-yi-xie-sui-xiang/">
-        </link>
-        <updated>2020-07-24T14:22:52.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被层层包裹住的自我]]></title>
-        <id>https://tonylin1026.tk/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/</id>
-        <link href="https://tonylin1026.tk/post/bei-ceng-ceng-bao-guo-zhu-de-zi-wo/">
-        </link>
-        <updated>2020-06-20T17:12:28.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[一超多强？——2020年四月新番后期总结]]></title>
@@ -79,5 +65,19 @@
         <link href="https://tonylin1026.tk/post/y-n-rr-y/">
         </link>
         <updated>2020-03-15T14:51:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价纪录片《电子竞技在中国》？ - Tony.Lin的回答 -]]></title>
+        <id>https://tonylin1026.tk/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/</id>
+        <link href="https://tonylin1026.tk/post/ru-he-ping-jie-ji-lu-pian-lesslessdian-zi-jing-ji-zai-zhong-guo-greatergreater-tonylin-de-hui-da-/">
+        </link>
+        <updated>2020-03-15T14:45:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年一月看番中（后？）期总结]]></title>
+        <id>https://tonylin1026.tk/post/2020-nian-yi-yue-kan-fan-zhong-hou-qi-zong-jie/</id>
+        <link href="https://tonylin1026.tk/post/2020-nian-yi-yue-kan-fan-zhong-hou-qi-zong-jie/">
+        </link>
+        <updated>2020-03-07T05:15:11.000Z</updated>
     </entry>
 </feed>
